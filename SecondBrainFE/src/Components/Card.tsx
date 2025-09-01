@@ -1,22 +1,3 @@
-// import { DocumentIcon } from "../icons/DocumentIcon";
-// import { ShareIcon } from "../icons/ShareIcon";
-// import { TrashIcon } from "../icons/TrashIcon";
-
-// export function Card(){
-//     return <div className="p-4 bg-white shadow-md rounded-lg  border border-gray-100 max-w-96 ">
-//         <div className="flex justify-between ">
-//              <div className="flex text-lg"> 
-//                 <DocumentIcon />
-//                 Document
-//              </div>
-//              <div className="flex">
-//                 <ShareIcon />
-//                 <TrashIcon />
-//              </div>
-//         </div>
-//     </div>
-// }
-
 import { DocumentIcon } from "../icons/DocumentIcon";
 import { ShareIcon } from "../icons/ShareIcon";
 import { TrashIcon } from "../icons/TrashIcon";
