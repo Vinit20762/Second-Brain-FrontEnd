@@ -1,6 +1,6 @@
 export function YoutubeIcon() {
     return <svg
-    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 hover: cursor-pointer text-red-600 flex"
+    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 shrink-0 hover: cursor-pointer text-red-600 flex"
     fill="currentColor"
     viewBox="0 0 576 512">
     <path

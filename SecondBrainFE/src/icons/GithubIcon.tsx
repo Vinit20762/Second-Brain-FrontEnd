@@ -1,6 +1,6 @@
 export function GithubIcon() {
     return <svg
-    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 hover: cursor-pointer text-gray-800"
+    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 shrink-0 hover: cursor-pointer text-gray-800"
     fill="currentColor"
     viewBox="0 0 496 512">
     <path

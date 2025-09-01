@@ -1,6 +1,6 @@
 export function LinkedinIcon() {
     return <svg
-    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 hover: cursor-pointer text-blue-700"
+    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 shrink-0 hover: cursor-pointer text-blue-700"
     fill="currentColor"
     viewBox="0 0 448 512">
     <path

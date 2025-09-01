@@ -1,6 +1,6 @@
 export function TwitterIcon() {
     return  <svg
-    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 hover: cursor-pointer text-blue-400"
+    xmlns="http://www.w3.org/2000/svg" className="size-6 mr-2 shrink-0 hover: cursor-pointer text-blue-400"
     fill="currentColor"
     viewBox="0 0 512 512">
     <path
