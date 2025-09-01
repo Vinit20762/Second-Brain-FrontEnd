@@ -9,7 +9,11 @@ function App() {
   return <div>
       <Button variant='primary' text='Add Brain' startIcon={<PlusIcon/>}/>
       <Button variant='secondary' text='Share Brain' startIcon={<ShareIcon/>}/>
-      <Card />
+      <Card type="youtube" title="React Tutorial" />
+      <Card type="twitter" title="React Tutorial" />
+      <Card type="github" title="React Tutorial" />
+      <Card type="pdf" title="React Tutorial" />
+      <Card type="linkedin" title="React Tutorial" />
      </div>
 }
 
