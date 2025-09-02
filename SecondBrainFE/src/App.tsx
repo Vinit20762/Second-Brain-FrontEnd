@@ -9,11 +9,11 @@ function App() {
   return <div>
       <Button variant='primary' text='Add Brain' startIcon={<PlusIcon/>}/>
       <Button variant='secondary' text='Share Brain' startIcon={<ShareIcon/>}/>
-      <Card type="youtube" title="React Tutorial" />
-      <Card type="twitter" title="React Tutorial" />
-      <Card type="github" title="React Tutorial" />
-      <Card type="pdf" title="React Tutorial" />
-      <Card type="linkedin" title="React Tutorial" />
+      <Card type="youtube" title="React Tutorial" link="https://www.youtube.com/watch?v=ZvjT9zY6_EI" />
+      <Card type="twitter" title="React Tutorial" link="https://x.com/rajscriptsX/status/1962749759502053626"/>
+      <Card type="document" title="React Tutorial" link="https://www.drishtiias.com/images/pdf/NCERT-Class-10-Science.pdf"/>
+      <Card type="github" title="Profile" link="https://github.com/blackmamba1231"/>
+      <Card type="github" title="Repo" link="https://github.com/Vinit20762/100xDevs-Cohort3-WebDev-and-Devops"/>
      </div>
 }
 
